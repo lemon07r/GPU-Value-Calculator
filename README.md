@@ -3,7 +3,7 @@
 A gpu value calculator made with Svelte 4 and Pico.css, for calculating price to performance value of various GPUs, using user defined data and various tech reviewer data.
 
 ### Live Site
-Coming soon
+https://gpu-value-calculator.pages.dev/
 
 ### Features
 - Includes Tom's Hardware 1440p GPU data
@@ -18,7 +18,7 @@ Coming soon
 - Table Import/Export
 
 ### Development / Installation
-Install node.js and use package manager of choice (pnpm, npm, etc) to install dependencies. Build, dev server, etc, scripts are your standard vite-svelte template ones, see in the package.json under "scripts", run with your package manager. 
+Install node.js and use package manager of choice (pnpm is recommended: https://pnpm.io/installation) to install dependencies. Build, dev server, etc, scripts are your standard vite-svelte template ones, see in the package.json under "scripts", run with your package manager. 
 
 Pull requests with fixes, updates or new features are welcome. 
 
