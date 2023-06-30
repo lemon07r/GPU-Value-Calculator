@@ -1,0 +1,162 @@
+[
+  {
+    "modelName": "RTX 4090 24 GB",
+    "avgFPS": 143.7,
+    "price": 1585
+  },
+  {
+    "modelName": "RX 7900 XTX 24 GB",
+    "avgFPS": 116.8,
+    "price": 930
+  },
+  {
+    "modelName": "RTX 4080 16 GB",
+    "avgFPS": 113.8,
+    "price": 1110
+  },
+  {
+    "modelName": "RTX 3090 Ti 24 GB",
+    "avgFPS": 98.8,
+    "price": 1790
+  },
+  {
+    "modelName": "RX 7900 XT 20 GB",
+    "avgFPS": 98.6,
+    "price": 780
+  },
+  {
+    "modelName": "RTX 4070 Ti 12 GB",
+    "avgFPS": 90.2,
+    "price": 800
+  },
+  {
+    "modelName": "RTX 3090 24 GB",
+    "avgFPS": 87.4,
+    "price": 1430
+  },
+  {
+    "modelName": "RTX 3080 Ti 12 GB",
+    "avgFPS": 86.5,
+    "price": 1250
+  },
+  {
+    "modelName": "RX 6900 XT 16 GB",
+    "avgFPS": 79.2,
+    "price": 800
+  },
+  {
+    "modelName": "RTX 3080 10 GB",
+    "avgFPS": 77,
+    "price": 900
+  },
+  {
+    "modelName": "RX 6800 XT 16 GB",
+    "avgFPS": 74.1,
+    "price": 500
+  },
+  {
+    "modelName": "RTX 4070 12 GB",
+    "avgFPS": 73.4,
+    "price": 585
+  },
+  {
+    "modelName": "RX 6800 16 GB",
+    "avgFPS": 64.5,
+    "price": 470
+  },
+  {
+    "modelName": "RTX 3070 Ti 8 GB",
+    "avgFPS": 63,
+    "price": 490
+  },
+  {
+    "modelName": "RTX 2080 Ti 11 GB",
+    "avgFPS": 58.8,
+    "price": 1230
+  },
+  {
+    "modelName": "RTX 3070 8 GB",
+    "avgFPS": 58.5,
+    "price": 430
+  },
+  {
+    "modelName": "RTX 4060 Ti 8 GB",
+    "avgFPS": 54,
+    "price": 380
+  },
+  {
+    "modelName": "RTX 3060 Ti 8 GB",
+    "avgFPS": 50.6,
+    "price": 275
+  },
+  {
+    "modelName": "RX 6700 XT 12 GB",
+    "avgFPS": 50.6,
+    "price": 310
+  },
+  {
+    "modelName": "RTX 2080 8 GB",
+    "avgFPS": 46.3,
+    "price": 800
+  },
+  {
+    "modelName": "ArcA 770 16 GB",
+    "avgFPS": 43.4,
+    "price": 340
+  },
+  {
+    "modelName": "AMD RX 7600 8 GB",
+    "avgFPS": 39,
+    "price": 250
+  },
+  {
+    "modelName": "RX 5700 XT 8 GB",
+    "avgFPS": 38.5,
+    "price": 230
+  },
+  {
+    "modelName": "RTX 3060 12 GB",
+    "avgFPS": 38.4,
+    "price": 260
+  },
+  {
+    "modelName": "RX 6650 XT 8 GB",
+    "avgFPS": 38.1,
+    "price": 230
+  },
+  {
+    "modelName": "RTX 2070 8 GB",
+    "avgFPS": 37.4,
+    "price": 900
+  },
+  {
+    "modelName": "RX 6600 XT 8 GB",
+    "avgFPS": 36.3,
+    "price": 230
+  },
+  {
+    "modelName": "RX 6600 8 GB",
+    "avgFPS": 30.5,
+    "price": 180
+  },
+  {
+    "modelName": "RTX 2060 6 GB",
+    "avgFPS": 30,
+    "price": 230
+  },
+  {
+    "modelName": "RTX 3050 8 GB",
+    "avgFPS": 27.1,
+    "price": 220
+  },
+  {
+    "modelName": "GTX 1660 Super 6 GB",
+    "avgFPS": 24.8,
+    "price": 230
+  },
+  {
+    "modelName": "RX 6500 XT 4 GB",
+    "avgFPS": 12.4,
+    "price": 145
+  }
+]
