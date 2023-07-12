@@ -9,12 +9,13 @@ https://gpu-value-calculator.pages.dev/
 - Includes Tom's Hardware 1440p GPU data
 - Includes Tech Powerup 4k GPU data
 - Displays GPU price to performance using price and FPS data
+- Completely client-side and will work offline
+- No cookies
 
 ### To Do List
 - Custom GPU entries into table
 - Add sorting
 - Add row editting
-- Fix initial table to be blank
 - Table Import/Export
 
 ### Development / Installation
@@ -29,4 +30,4 @@ Pull requests with fixes, updates or new features are welcome.
 - TypeScript
 
 ### License
-MIT
+[MIT](https://github.com/lemon07r/GPU-Value-Calculator/blob/main/LICENSE.txt)
