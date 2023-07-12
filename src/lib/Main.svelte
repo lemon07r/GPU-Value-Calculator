@@ -1,9 +1,8 @@
 <script lang="ts">
     import ths1440p from "../assets/data/230625-tomshardware1440p.json";
     import tpu4k from "../assets/data/230625-techpowerup4k.json";
-    import blank from "../assets/data/blank.json";
 
-    let data = blank;
+    let data = [];
     let selected;
     let tables = [
         { id: 1, text: `Blank` },
