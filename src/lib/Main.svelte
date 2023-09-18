@@ -19,7 +19,7 @@
     };
     function loadTable() {
         if (selected.id === 1) {
-            clearTable();
+            data = [];
         } else if (selected.id === 2) {
             data = ths1440p;
         } else if (selected.id === 3) {
