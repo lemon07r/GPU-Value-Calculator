@@ -1,6 +1,6 @@
 <script lang="ts">
   const title: string = 'GPU Value Calculator';
-  const version: string = '0.0.4';
+  const version: string = '0.1.0';
   const description: string = 'Select a table below.';
 </script>
 
